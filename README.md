@@ -18,7 +18,6 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Eugene Syriani and Hans Vangheluwe
 * [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer
 * [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi
-  
 #### Tools and frameworks
 * Modeling
   * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
@@ -34,9 +33,30 @@ A curated list of awesome model-driven engineering (MDE) resources.
 ## Tools
  * Metamodeling
    * [metaDepth](http://metadepth.org/)
+   * [Emfatic](https://eclipse.org/emfatic) (textual syntax for Ecore)
+   
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
- * Model transformation languages
+   
+ * Model-to-model transformation languages
    * [ATL](https://www.eclipse.org/atl/)
    * [Epsilon Transformation Language (ETL)](https://www.eclipse.org/epsilon/doc/etl/)
    * [MOF Query/View/Transformation (QVT)](https://www.omg.org/spec/QVT/About-QVT/)
+   
+* Model-to-text transformation languages
+
+  * [Epsilon Generation Language (EGL)](https://eclipse.org/doc/egl)
+
+* Model validation languages
+
+  * [Epsilon Validation Language (EVL)](https://eclipse.org/epsilon/doc/evl)
+
+* Model visualisation
+
+  * [Picto](https://eclipse.org/epsilon/doc/picto) (model visualisation through lazy model-to-text transformation to HTML, Graphviz and PlantUML)
+
+* Textual modelling
+
+  * [Flexmi](https://eclipse.org/epsilon/flexmi) (reflective textual syntax for EMF-based models, with XML and YAML flavours)
+
+  
