@@ -28,13 +28,16 @@ A curated list of awesome model-driven engineering (MDE) resources.
     * [Xtext - a textual language engineering framework](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
     * [Sirius - a visual language engineering framework](https://www.eclipse.org/sirius/getstarted.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
     * [AToMPM - A tool for Multi-Paradigm Modeling](https://atompm.github.io) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
-
+* [Edelta - a Metamodel Evolution Tool including a textual DSL for model refactoring](https://github.com/LorenzoBettini/edelta) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
 ## Methods and Techniques
 
 ## Tools
  * Metamodeling
    * [metaDepth](http://metadepth.org/)
+* Complete Model Management Framework
+   * [Epsilon](https://www.eclipse.org/epsilon/)
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
  * Model transformations
    * [ATL](https://www.eclipse.org/atl/)
+
