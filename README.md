@@ -70,3 +70,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * Textual modelling
 
   * [Flexmi](https://eclipse.org/epsilon/flexmi) (reflective textual syntax for EMF-based models, with XML and YAML flavours)
+
+* Model diff/merge
+  * [EMFCompare overview](https://www.slideshare.net/mikaelbarbero/diff-and-merge-with-ease-with-emf-compare)   
+  * [Comparison and merge use-cases from practice with EMFCompare](https://youtu.be/Uwq7W7jEdUU)
