@@ -33,8 +33,6 @@ A curated list of awesome model-driven engineering (MDE) resources.
   * [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Eugene Syriani and Hans Vangheluwe
   * [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer
   * [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi
-
-## Methods and techniques
   
 * Tools and frameworks
   * Modeling
@@ -46,6 +44,9 @@ A curated list of awesome model-driven engineering (MDE) resources.
     * [Sirius - a visual language engineering framework](https://www.eclipse.org/sirius/getstarted.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
     * [AToMPM - A tool for Multi-Paradigm Modeling](https://atompm.github.io) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
 * [Edelta - a Metamodel Evolution Tool including a textual DSL for model refactoring](https://github.com/LorenzoBettini/edelta) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
+
+## Methods and techniques
+TBD
 
 ## Tools
  * Metamodeling
