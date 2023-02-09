@@ -58,6 +58,7 @@ TBD
 
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
+   * [GEMOC - A Language Workbench for Modeling language Design, Implementation and Coordination](https://gemoc.org/studio.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
    
  * Model-to-model transformation languages
    * [ATL](https://www.eclipse.org/atl/)
