@@ -39,6 +39,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
     * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
   * Model transformations
     * [VIATRA - VIsual Automated model TRAnsformations](https://www.eclipse.org/viatra/documentation/tutorial.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
+    * [Henshin - Graph Transformation Language](https://projects.eclipse.org/projects/modeling.emft.henshin) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
   * DSLs
     * [Xtext - a textual language engineering framework](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
     * [Sirius - a visual language engineering framework](https://www.eclipse.org/sirius/getstarted.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
