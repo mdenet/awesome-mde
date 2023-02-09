@@ -22,6 +22,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * [Real world DSL – making technical and business people speaking the same language](https://www.slideshare.net/mariofusco/real-world-dsl) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Mario Fusco
 * [Domain-Specific Languages: Effective modeling, automation, and reuse](http://dsl.design) upcoming book by Andrzej Wasowski and Thorsten Berger
 * [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) edited volume
+* [Gamification Rule Language - A DSL for gamification rules](https://github.com/antbucc/GRL) by Antonio Bucchiarone and Stefano Martella
 #### Model transformations
 * [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Eugene Syriani and Hans Vangheluwe
 * [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer
