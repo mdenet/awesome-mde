@@ -56,6 +56,9 @@ TBD
    * [Epsilon](https://www.eclipse.org/epsilon/)
    * [Emfatic](https://eclipse.org/emfatic) (textual syntax for Ecore)
 
+* Learning Modeling through Gamification
+   * [PapyGame](https://www.papygame.com/)
+
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
    
