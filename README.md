@@ -83,3 +83,8 @@ TBD
 * Model diff/merge
   * [EMFCompare overview](https://www.slideshare.net/mikaelbarbero/diff-and-merge-with-ease-with-emf-compare)   
   * [Comparison and merge use-cases from practice with EMFCompare](https://youtu.be/Uwq7W7jEdUU)
+
+* _Model optimisation / design space exploration._ These are tools for searching for optimal models or transformations.
+  * [MoMOT](http://martin-fleck.github.io/momot/) a transformation based optimisation tool
+  * [MDEOptimiser](https://mde-optimiser.github.io/) a model-based optimisation tool
+  * [Viatra DSE](https://wiki.eclipse.org/VIATRA/DSE) a transformation based optimisation tool in the ViATRA suite of tools
