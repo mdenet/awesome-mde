@@ -47,6 +47,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
     * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
   * Model transformations
     * [VIATRA - VIsual Automated model TRAnsformations](https://www.eclipse.org/viatra/documentation/tutorial.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
+    * [The Janus Transformation Language (JTL)](https://jtl.univaq.it/)
     * [MoTE – TGG-based Model Transformation Engine](https://www.hpi.uni-potsdam.de/giese/public/mdelab/mdelab-projects/mote-a-tgg-based-model-transformation-engine/)
     * [Henshin - Graph Transformation Language](https://projects.eclipse.org/projects/modeling.emft.henshin) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
   * DSLs
@@ -81,6 +82,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
    * [ATL](https://www.eclipse.org/atl/)
    * [Epsilon Transformation Language (ETL)](https://www.eclipse.org/epsilon/doc/etl/)
    * [MOF Query/View/Transformation (QVT)](https://www.omg.org/spec/QVT/About-QVT/)
+   * 
    
 * Model-to-text transformation languages
 
