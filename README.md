@@ -15,6 +15,9 @@ A curated list of awesome model-driven engineering (MDE) resources.
  * [Foundations of Model-Driven Software Engineering](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Jochen Kuster
 * [Matters of (Meta-) Modeling](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne
 * [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by D.C. Schimdt
+* [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) by Bernhard Rumpe et al.
+
+
 #### Domain-specific languages (DSL)
 * [Domain-Specific Modelling Languages: the need for Modelling Language Engineering](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.ModellingLanguageEngineering.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Hans Vangheluwe
 * [Modelling Languages: (mostly) Concrete (Visual) Syntax](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.DSM-TP.DSLengineering.semantics.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Hans Vangheluwe
@@ -22,11 +25,15 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * [Real world DSL – making technical and business people speaking the same language](https://www.slideshare.net/mariofusco/real-world-dsl) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Mario Fusco
 * [Domain-Specific Languages: Effective modeling, automation, and reuse](http://dsl.design) upcoming book by Andrzej Wasowski and Thorsten Berger
 * [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) edited volume
+* [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe
+* [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek
 * [Gamification Rule Language - A DSL for gamification rules](https://github.com/antbucc/GRL) by Antonio Bucchiarone and Stefano Martella
+
 #### Model transformations
 * [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Eugene Syriani and Hans Vangheluwe
 * [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer
 * [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi
+
 #### Tools and frameworks
 * Modeling
   * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
@@ -48,7 +55,10 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * [Edelta - a Metamodel Evolution Tool including a textual DSL for model refactoring](https://github.com/LorenzoBettini/edelta) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
 
 ## Methods and techniques
-TBD
+* DSL Engineering Guidelines
+    * [Design Guidelines for Domain Specific Languages](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by G. Karsai, H. Krahn, C. Pinkernell, B. Rumpe, M. Schindler, S. Völkel
+* Retrofitting MDE in Information Systems
+    * [A Methodology for Retrofitting Generative Aspects in Existing Applications](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by  I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga
 
 ## Tools
  * Metamodeling
@@ -60,6 +70,7 @@ TBD
 
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
+   * [MontiCore](https://monticore.github.io/monticore/)
    * [GEMOC - A Language Workbench for Modeling language Design, Implementation and Coordination](https://gemoc.org/studio.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
    
  * Model-to-model transformation languages
