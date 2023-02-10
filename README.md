@@ -27,11 +27,13 @@ A curated list of awesome model-driven engineering (MDE) resources.
 * [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) edited volume
 * [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe
 * [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek
+* [Gamification Rule Language - A DSL for gamification rules](https://github.com/antbucc/GRL) by Antonio Bucchiarone and Stefano Martella
 
 #### Model transformations
 * [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Eugene Syriani and Hans Vangheluwe
 * [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer
 * [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi
+
 #### Tools and frameworks
 * Modeling
   * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
@@ -45,6 +47,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
     * [Eclipse Modeling Framework (EMF) Tutorial](https://www.vogella.com/tutorials/EclipseEMF/article.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/> by Lars Vogel
   * Model transformations
     * [VIATRA - VIsual Automated model TRAnsformations](https://www.eclipse.org/viatra/documentation/tutorial.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
+    * [Henshin - Graph Transformation Language](https://projects.eclipse.org/projects/modeling.emft.henshin) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
   * DSLs
     * [Xtext - a textual language engineering framework](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
     * [Sirius - a visual language engineering framework](https://www.eclipse.org/sirius/getstarted.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
@@ -68,6 +71,7 @@ A curated list of awesome model-driven engineering (MDE) resources.
  * Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/)
    * [MontiCore](https://monticore.github.io/monticore/)
+   * [GEMOC - A Language Workbench for Modeling language Design, Implementation and Coordination](https://gemoc.org/studio.html) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/www.jpg?raw=true" alt="Website" width="16"/>
    
  * Model-to-model transformation languages
    * [ATL](https://www.eclipse.org/atl/)
