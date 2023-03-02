@@ -11,11 +11,11 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 ## Introductory materials
 
 #### General MDE
-* [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Marco Brambilla, Jordi Cabot and Manuel Wimmer
-* [Foundations of Model-Driven Software Engineering](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Jochen Kuster
-* [Matters of (Meta-) Modeling](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by Thomas Kuhne
-* [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/> by D.C. Schimdt
-* [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) by Bernhard Rumpe et al.
+* [Model-Driven Software Engineering in Practice - Introduction <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/>](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - by Marco Brambilla, Jordi Cabot and Manuel Wimmer.
+* [Foundations of Model-Driven Software Engineering <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/>](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf)- by Jochen Kuster.
+* [Matters of (Meta-) Modeling <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/>](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) - by Thomas Kuhne.
+* [Model-driven engineering <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - by D.C. Schimdt.
+* [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) - by Bernhard Rumpe et al.
 
 #### Domain-specific languages (DSL)
 * [Domain-Specific Modelling Languages: the need for Modelling Language Engineering](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.ModellingLanguageEngineering.pdf) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Hans Vangheluwe
@@ -57,9 +57,9 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 
 ## Methods and techniques
 * DSL Engineering Guidelines
-    * [Design Guidelines for Domain Specific Languages](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by G. Karsai, H. Krahn, C. Pinkernell, B. Rumpe, M. Schindler, S. Völkel
+  * [Design Guidelines for Domain Specific Languages](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by G. Karsai, H. Krahn, C. Pinkernell, B. Rumpe, M. Schindler, S. Völkel
 * Retrofitting MDE in Information Systems
-    * [A Methodology for Retrofitting Generative Aspects in Existing Applications](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by  I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga
+  * [A Methodology for Retrofitting Generative Aspects in Existing Applications](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) by  I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga
 
 ## Tools
  * Metamodeling
