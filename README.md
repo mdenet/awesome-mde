@@ -4,9 +4,9 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 
 ## Contents
 
-* [Introductory materials](#-introductory-materials)
-* [Methods and techniques](#-methods-and-techniques)
-* [Tools](#-tools)
+* [Introductory materials](#introductory-materials)
+* [Methods and techniques](#methods-and-techniques)
+* [Tools](#tools)
 
 ## Introductory materials
 
