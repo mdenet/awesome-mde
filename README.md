@@ -2,7 +2,7 @@
 
 A curated list of awesome model-driven engineering (MDE) resources. Originally set up [@iivanoo](https://github.com/iivanoo)'s [Software and Sustainability Group](https://github.com/S2-group) and transferred to [MDENet](https://www.mde-network.org/) in 2023.
 
-## Index
+## Contents
 
 * [Introductory materials](#-introductory-materials)
 * [Methods and techniques](#-methods-and-techniques)
