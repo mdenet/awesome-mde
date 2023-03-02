@@ -25,7 +25,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 * [Domain-Specific Languages: Effective modeling, automation, and reuse](http://dsl.design) - A book by Andrzej Wasowski and Thorsten Berger.
 * [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) - An edited volume with different contributions about the JetBrains MPS tool.
 * [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) - A report by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe.
-* [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) - A book by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek
+* [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) - A book by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek.
 * [Gamification Rule Language - A DSL for gamification rules](https://github.com/antbucc/GRL) - A tool by Antonio Bucchiarone and Stefano Martella.
 
 #### Model transformations
@@ -53,7 +53,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
     * [Xtext](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) - A textual language engineering framework.
     * [Sirius](https://www.eclipse.org/sirius/getstarted.html) - A visual language engineering framework.
     * [AToMPM](https://atompm.github.io) - A tool for Multi-Paradigm Modeling.
-  * [Edelta](https://github.com/LorenzoBettini/edelta)  - A Metamodel Evolution Tool including a textual DSL for model refactoring.
+  * [Edelta](https://github.com/LorenzoBettini/edelta) - A Metamodel Evolution Tool including a textual DSL for model refactoring.
 
 ## Methods and techniques
 * DSL Engineering Guidelines
@@ -62,18 +62,18 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
   * [A Methodology for Retrofitting Generative Aspects in Existing Applications](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) - A report by  I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga.
 
 ## Tools
- * Metamodeling
+* Metamodeling
    * [metaDepth](http://metadepth.org/) - A metamodelling tool following the multi-level modelling approach.
 * Complete Model Management Framework
    * [Epsilon](https://www.eclipse.org/epsilon/) - A set of languages and tools for a wide variety of model-management tasks.
    * [Emfatic](https://eclipse.org/emfatic) - Textual syntax for Ecore.
 * Learning Modeling through Gamification
    * [PapyGame](https://www.papygame.com/) - A gamified approach to learning UML and other modelling tools.
- * Language engineering
+* Language engineering
    * [Jetbrains MPS](https://www.jetbrains.com/mps/) - A language workbench for projectional languages.
    * [MontiCore](https://monticore.github.io/monticore/) - A language workbench for textual languages.
-   * [GEMOC](https://gemoc.org/studio.html)  - A Language Workbench for Modeling language Design, Implementation and Coordination.
- * Model-to-model transformation languages
+   * [GEMOC](https://gemoc.org/studio.html) - A Language Workbench for Modeling language Design, Implementation and Coordination.
+* Model-to-model transformation languages
    * [ATL](https://www.eclipse.org/atl/) - An efficient rule-based model transformation language.
    * [Epsilon Transformation Language (ETL)](https://www.eclipse.org/epsilon/doc/etl/) - A hybrid model transformation language. 
    * [MOF Query/View/Transformation (QVT)](https://www.omg.org/spec/QVT/About-QVT/) - The OMG standard for model transformation.
@@ -88,7 +88,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 * Model diff/merge
   * [EMFCompare overview](https://www.slideshare.net/mikaelbarbero/diff-and-merge-with-ease-with-emf-compare) - A tool for comparing models.
   * [Comparison and merge use-cases from practice with EMFCompare](https://youtu.be/Uwq7W7jEdUU) - A tutorial on EMFCompare.
-* _Model optimisation / design space exploration._ These are tools for searching for optimal models or transformations.
+* Model optimisation / design space exploration. These are tools for searching for optimal models or transformations.
   * [MoMOT](http://martin-fleck.github.io/momot/) - A transformation based optimisation tool.
   * [MDEOptimiser](https://mde-optimiser.github.io/) - A model-based optimisation tool.
   * [Viatra DSE](https://wiki.eclipse.org/VIATRA/DSE) - A transformation based optimisation tool in the ViATRA suite of tools.
