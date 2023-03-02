@@ -11,10 +11,10 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 ## Introductory materials
 
 #### General MDE
-* [Model-Driven Software Engineering in Practice - Introduction ](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - ![Presentation](https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true) by Marco Brambilla, Jordi Cabot and Manuel Wimmer.
-* [Foundations of Model-Driven Software Engineering <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/>](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf)- by Jochen Kuster.
-* [Matters of (Meta-) Modeling <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/>](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) - by Thomas Kuhne.
-* [Model-driven engineering <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true" alt="Paper" width="16"/>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - by D.C. Schimdt.
+* [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - ![Presentation](https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true) by Marco Brambilla, Jordi Cabot and Manuel Wimmer.
+* [Foundations of Model-Driven Software Engineering](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf)- ![Presentation](https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true) by Jochen Kuster.
+* [Matters of (Meta-) Modeling](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) - ![Paper](https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true) by Thomas Kuhne.
+* [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - ![Paper](https://github.com/david-istvan/awesome-mde/blob/main/icons/paper.jpg?raw=true) by D.C. Schimdt.
 * [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) - by Bernhard Rumpe et al.
 
 #### Domain-specific languages (DSL)
