@@ -29,7 +29,7 @@ DSLs are a key component of MDE. The materials below provide some discussion of 
 - [Domain-Specific Modelling Languages: the need for Modelling Language Engineering](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.ModellingLanguageEngineering.pdf) - A presentation by Hans Vangheluwe.
 - [Modelling Languages: (mostly) Concrete (Visual) Syntax](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.DSM-TP.DSLengineering.semantics.pdf) - A presentation by Hans Vangheluwe.
 - [Domain-Specific Languages](https://www.slideshare.net/zirrus/domainspecific-langauges) - A presentation by Javier Canovas.
-- [Real world DSL – making technical and business people speaking the same language](https://www.slideshare.net/mariofusco/real-world-dsl) - A presentation by Mario Fusco.
+- [Real world DSL - making technical and business people speaking the same language](https://www.slideshare.net/mariofusco/real-world-dsl) - A presentation by Mario Fusco.
 - [Domain-Specific Languages: Effective modeling, automation, and reuse](http://dsl.design) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) - An edited volume with different contributions about the JetBrains MPS tool.
 - [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) - A report by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe.
@@ -46,7 +46,7 @@ DSLs are a key component of MDE. The materials below provide some discussion of 
 Below, we list awesome tools for doing MDE. The classification of contributions below is inspired by the MDE Body of Knowledge [[1](https://doi.org/10.1145/3270112.3270121),[2](https://doi.org/10.1007/s10270-019-00746-9)].
 
 - Modeling Languages
-  – Language definition
+  - Language definition
     - Syntax
       - Metamodels
         - [Eclipse Modelling Framework (EMF)](https://www.eclipse.org/modeling/emf/) - The foundational meta-modelling framework in the Eclipse technical space. Used to define meta-models, from which full modelling languages can be built.
@@ -56,7 +56,7 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
         - [metaDepth](http://metadepth.org/) - A metamodelling tool following the multi-level modelling approach.
       - Textual
         - [Xtext](https://www.eclipse.org/Xtext) - A language workbench for creating textual modelling languages and modelling tools.
-          - [Xtext 15-minute tutorial](/documentation/102_domainmodelwalkthrough.html) - A short tutorial to get started with Xtext.
+          - [Xtext 15-minute tutorial](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) - A short tutorial to get started with Xtext.
         - [MontiCore](https://monticore.github.io/monticore/) - A language workbench for textual languages.
         - [Flexmi](https://eclipse.org/epsilon/flexmi) - Reflective textual syntax for EMF-based models, with XML and YAML flavours.
       - Projectional
@@ -65,12 +65,12 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
         - [Sirius](https://www.eclipse.org/sirius/getstarted.html) - A visual language engineering framework.
       - Multi-view modelling
         - [AToMPM](https://atompm.github.io) - A tool for Multi-Paradigm Modeling.
-    - Semantics
-      - [GEMOC](https://gemoc.org/studio.html) - A Language Workbench for Modeling language Design, Implementation and Coordination. Especially provides support for executable DSMLs through engines that can execute explicitly specified language semantics.
-  – Types of modeling languages
+    - Semantics.
+      - [GEMOC](https://gemoc.org/studio.html) - A language workbench for modeling language design, implementation and coordination. Especially provides support for executable DSMLs through engines that can execute explicitly specified language semantics.
+  - Types of modeling languages
     - General purpose (GPL): UML+OCL, SysML
       - [Papyrus](https://www.eclipse.org/papyrus/) - An open-source UML modelling tool.
-    - Domain-specific (DSL): UML Profiles, ADLs, ...
+    - Domain-specific (DSL): UML Profiles, ADLs, etc
 - Model Transformations
   - Model transformation
     - Languages / engines
@@ -80,11 +80,11 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
         - [MOF Query/View/Transformation (QVT)](https://www.omg.org/spec/QVT/About-QVT/) - The OMG standard for model transformation.
         - [VIATRA - VIsual Automated model TRAnsformations](https://www.eclipse.org/viatra/documentation/tutorial.html) - A tutorial about the VIATRA tool.
         - [The Janus Transformation Language (JTL)](https://jtl.univaq.it/) - Another transformation language.
-        - [MoTE – TGG-based Model Transformation Engine](https://www.hpi.uni-potsdam.de/giese/public/mdelab/mdelab-projects/mote-a-tgg-based-model-transformation-engine/) - A graph-transformation based model transformation tool.
+        - [MoTE - TGG-based Model Transformation Engine](https://www.hpi.uni-potsdam.de/giese/public/mdelab/mdelab-projects/mote-a-tgg-based-model-transformation-engine/) - A graph-transformation based model transformation tool.
         - [Henshin - Graph Transformation Language](https://projects.eclipse.org/projects/modeling.emft.henshin) - A graph-transformation based model transformation tool.
-      - Model-to-text transformation languages
+      - Model-to-text transformation languages.
         - [Epsilon Generation Language (EGL)](https://eclipse.org/doc/egl) - A language and tool for model-to-text transformation (aka code generation).
-  – Model transformation applications
+  - Model transformation applications
     - Model differencing and merging
       - [EMFCompare](https://www.slideshare.net/mikaelbarbero/diff-and-merge-with-ease-with-emf-compare) - A tool for comparing models.
         - [Comparison and merge use-cases from practice with EMFCompare](https://youtu.be/Uwq7W7jEdUU) - A tutorial on EMFCompare.
@@ -95,24 +95,24 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
     - Model evolution/migration
       - [Edelta](https://github.com/LorenzoBettini/edelta) - A Metamodel Evolution Tool including a textual DSL for model refactoring.
 - Model Visualization
-  – Layout
+  - Layout
     - [Eclipse Layout Kernel (ELK)](https://www.eclipse.org/elk/) - Automatic layout of diagrams.
-  – Rendering
+  - Rendering
     - [Picto](https://eclipse.org/epsilon/doc/picto) - Model visualisation through lazy model-to-text transformation to HTML, Graphviz and PlantUML.
 - Model Analysis
-  – Structural model analysis
+  - Structural model analysis
     - Invariant checking
       - [Epsilon Validation Language (EVL)](https://eclipse.org/epsilon/doc/evl) - A language and tool for validating models.
     - Instance generation
     - Metrics calculation
     - Smells detection
-  – Behavioural model analysis
+  - Behavioural model analysis
     - Pre-postcondition checking
     - Simulation
     - Reachability analysis
     - Temporal model checking
     - Performance
-  – Model transformation analysis
+  - Model transformation analysis
     - Correctness (of transformed models, in syntax and semantics)
     - Completeness
     - Functional behaviour (termination, confluence)
