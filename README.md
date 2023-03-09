@@ -19,7 +19,6 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Matters of (Meta-) Modeling](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) - A paper by Thomas Kuhne.
 - [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - A paper by D.C. Schimdt.
 - [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) - A report by Bernhard Rumpe et al.
-- [A Methodology for Retrofitting Generative Aspects in Existing Applications](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) - A report by  I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga.
 
 ### Domain-specific languages (DSL)
 DSLs are a key component of MDE. The materials below provide some discussion of DSLs. 
