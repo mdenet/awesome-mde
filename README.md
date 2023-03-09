@@ -9,22 +9,17 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 
 ## Books and introductory materials
 
-### General MDE
-
-**ADD ANDRZEJ's NEW BOOK**
-
+### Overview books
+- [Domain-Specific Languages: Effective modeling, automation, and reuse](https://dsldesign.bitbucket.io/) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Model-Driven Software Engineering in Practice](https://link.springer.com/book/10.1007/978-3-031-02549-5) - This book by Marco Brambilla, Jordi Cabot, and Manuel Wimmer provides a good high-level introduction to the field.
   - [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - This presentation gives a good summary of the key ideas.
+- [DSL Engineering](http://voelter.de/dslbook/markusvoelter-dslengineering-1.0.pdf) - A book by Markus Völter giving an overview of different approaches and tools for engineering domain-specific (modelling) languages.
+
+### Papers and presentations
 - [Foundations of Model-Driven Software Engineering](https://researcher.watson.ibm.com/researcher/files/zurich-jku/mdse-01.pdf) - A presentation by Jochen Kuster.
 - [Matters of (Meta-) Modeling](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/MattersOfMetaModelling.pdf) - A paper by Thomas Kuhne.
 - [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - A paper by D.C. Schimdt.
 - [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) - A report by Bernhard Rumpe et al.
-
-### Domain-specific languages (DSL)
-DSLs are a key component of MDE. The materials below provide some discussion of DSLs. 
-
-**ADD DSL Engineering book**
-
 - [Domain-Specific Modelling Languages: the need for Modelling Language Engineering](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.ModellingLanguageEngineering.pdf) - A presentation by Hans Vangheluwe.
 - [Modelling Languages: (mostly) Concrete (Visual) Syntax](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/presentations/presentation.DSM-TP.DSLengineering.semantics.pdf) - A presentation by Hans Vangheluwe.
 - [Domain-Specific Languages](https://www.slideshare.net/zirrus/domainspecific-langauges) - A presentation by Javier Canovas.
@@ -34,8 +29,6 @@ DSLs are a key component of MDE. The materials below provide some discussion of 
 - [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) - A report by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe.
 - [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) - A book by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek.
 - [Design Guidelines for Domain Specific Languages](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) - A report by G. Karsai, H. Krahn, C. Pinkernell, B. Rumpe, M. Schindler, S. Völkel.
-
-### Model transformations
 - [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) - A presentation by Eugene Syriani and Hans Vangheluwe.
 - [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) - A paper by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer.
 - [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) - A paper by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi.
