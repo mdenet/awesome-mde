@@ -13,6 +13,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Domain-Specific Languages: Effective modeling, automation, and reuse](https://dsldesign.bitbucket.io/) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Model-Driven Software Engineering in Practice](https://link.springer.com/book/10.1007/978-3-031-02549-5) - This book by Marco Brambilla, Jordi Cabot, and Manuel Wimmer provides a good high-level introduction to the field.
   - [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - This presentation gives a good summary of the key ideas.
+- [Engineering Modeling Languages – Turning Domain  Knowledge into Tools](http://mdebook.irisa.fr/) - A book by Benoit Combemale, Robert B. France, Jean-Marc Jézéquel, Bernhard Rumpe, Jim Steel, and Didier Vojtisek
 - [DSL Engineering](http://voelter.de/dslbook/markusvoelter-dslengineering-1.0.pdf) - A book by Markus Völter giving an overview of different approaches and tools for engineering domain-specific (modelling) languages.
 
 ### Papers and presentations
@@ -27,7 +28,6 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Domain-Specific Languages: Effective modeling, automation, and reuse](http://dsl.design) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007%2F978-3-030-73758-0) - An edited volume with different contributions about the JetBrains MPS tool.
 - [Globalizing Domain-Specific Languages](https://www.se-rwth.de/publications/Globalizing-Domain-Specific-Languages2.pdf) - A report by B. H. C. Cheng, B. Combemale, R. B. France, J.- M. Jézéquel, B. Rumpe.
-- [Engineering Modeling Languages: Turning Domain Knowledge into Tools](https://www.routledge.com/Engineering-Modeling-Languages/Combemale-France-Jezequel-Rumpe-Steel-Vojtisek/p/book/9781466583733) - A book by B. Combemale, R. France, J.- M. Jézéquel, B. Rumpe, J. Steel, D. Vojtisek.
 - [Design Guidelines for Domain Specific Languages](https://www.se-rwth.de/publications/A-Methodology-for-Retrofitting-Generative-Aspects-in-Existing-Applications.pdf) - A report by G. Karsai, H. Krahn, C. Pinkernell, B. Rumpe, M. Schindler, S. Völkel.
 - [Model Transformation](http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/ModelTransformation.pdf) - A presentation by Eugene Syriani and Hans Vangheluwe.
 - [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) - A paper by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer.
