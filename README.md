@@ -115,3 +115,8 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
   - Learning Modeling through Gamification
     - [PapyGame](https://www.papygame.com/) - A gamified approach to learning UML and other modelling tools.
       - [Gamification Rule Language - A DSL for gamification rules](https://github.com/antbucc/GRL) - A tool by Antonio Bucchiarone and Stefano Martella.
+
+### Scientific Venues
+
+- [ACM / IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS)](http://www.modelsconference.org/)
+- [International Journal on Software and Systems Modeling (SoSyM)](https://www.sosym.org/)
