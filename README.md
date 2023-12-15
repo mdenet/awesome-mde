@@ -13,7 +13,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Domain-Specific Languages: Effective modeling, automation, and reuse](https://dsldesign.bitbucket.io/) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Model-Driven Software Engineering in Practice](https://link.springer.com/book/10.1007/978-3-031-02549-5) - This book by Marco Brambilla, Jordi Cabot, and Manuel Wimmer provides a good high-level introduction to the field.
   - [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - This presentation gives a good summary of the key ideas.
-- [Engineering Modeling Languages – Turning Domain  Knowledge into Tools](http://mdebook.irisa.fr/) - A book by Benoit Combemale, Robert B. France, Jean-Marc Jézéquel, Bernhard Rumpe, Jim Steel, and Didier Vojtisek
+- [Engineering Modeling Languages – Turning Domain  Knowledge into Tools](http://mdebook.irisa.fr/) - A book by Benoit Combemale, Robert B. France, Jean-Marc Jézéquel, Bernhard Rumpe, Jim Steel, and Didier Vojtisek.
 - [DSL Engineering](http://voelter.de/dslbook/markusvoelter-dslengineering-1.0.pdf) - A book by Markus Völter giving an overview of different approaches and tools for engineering domain-specific (modelling) languages.
 
 ### Papers and presentations
