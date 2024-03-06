@@ -33,6 +33,10 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Explicitly Modeling Transformations](http://homepages.mcs.vuw.ac.nz/~tk/publications/papers/explicitly-modeling-transformations.pdf) - A paper by Thomas Kuhne, Gergely Mezei, Eugene Syriani, Hans Vangheluwe and Manuel Wimmer.
 - [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) - A paper by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi.
 
+### Video presentations
+- [Computerphile video introducing MDE](https://www.youtube.com/watch?v=3aoLV5i1feo)
+- [Computerphile video on some of the technology in MDE](https://www.youtube.com/watch?v=flWqmB4UaBA)
+
 ## Tools
 
 Below, we list awesome tools for doing MDE. The classification of contributions below is inspired by the MDE Body of Knowledge [[1](https://doi.org/10.1145/3270112.3270121),[2](https://doi.org/10.1007/s10270-019-00746-9)].
