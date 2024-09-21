@@ -11,6 +11,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 ## Books and introductory materials
 
 ### Overview books
+
 - [Domain-Specific Languages: Effective modeling, automation, and reuse](https://dsldesign.bitbucket.io/) - A book by Andrzej Wasowski and Thorsten Berger.
 - [Model-Driven Software Engineering in Practice](https://link.springer.com/book/10.1007/978-3-031-02549-5) - This book by Marco Brambilla, Jordi Cabot, and Manuel Wimmer provides a good high-level introduction to the field.
   - [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) - This presentation gives a good summary of the key ideas.
@@ -18,6 +19,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [DSL Engineering](http://voelter.de/dslbook/markusvoelter-dslengineering-1.0.pdf) - A book by Markus Völter giving an overview of different approaches and tools for engineering domain-specific (modelling) languages.
 
 ### Papers and presentations
+
 - [Matters of (Meta-) Modeling](https://link.springer.com/article/10.1007/s10270-006-0017-9) - A paper by Thomas Kuhne.
 - [Model-driven engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9720&rep=rep1&type=pdf) - A paper by D.C. Schimdt.
 - [Generative Software Engineering](https://www.se-rwth.de/research/Generative-SE/) - A report by Bernhard Rumpe et al.
@@ -32,6 +34,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 - [Road to a reactive and incremental model transformation platform: three generations of the VIATRA framework](https://www.researchgate.net/publication/303090660_Road_to_a_reactive_and_incremental_model_transformation_platform_three_generations_of_the_VIATRA_framework) - A paper by Daniel Varro, Gabor Bergmann, Abel Hegedus, Akos Horvath, Istvan Rath and Zoltan Ujhelyi.
 
 ### Video presentations
+
 - [Computerphile video introducing MDE](https://www.youtube.com/watch?v=3aoLV5i1feo)
 - [Computerphile video on some of the technology in MDE](https://www.youtube.com/watch?v=flWqmB4UaBA)
 
@@ -70,7 +73,7 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
     - Languages / engines
       - Model-to-model transformation languages
         - [ATL](https://www.eclipse.org/atl/) - An efficient rule-based model transformation language.
-        - [Epsilon Transformation Language (ETL)](https://www.eclipse.org/epsilon/doc/etl/) - A hybrid model transformation language. 
+        - [Epsilon Transformation Language (ETL)](https://www.eclipse.org/epsilon/doc/etl/) - A hybrid model transformation language.
         - [MOF Query/View/Transformation (QVT)](https://www.omg.org/spec/QVT/About-QVT/) - The OMG standard for model transformation.
         - [VIATRA - VIsual Automated model TRAnsformations](https://www.eclipse.org/viatra/documentation/tutorial.html) - A tutorial about the VIATRA tool.
         - [The Janus Transformation Language (JTL)](https://jtl.univaq.it/) - Another transformation language.
