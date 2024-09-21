@@ -24,14 +24,6 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
           globs: '**/*.md'
-          fix: true
-      - name: Commit changes from fixing
-        uses: stefanzweifel/git-auto-commit-action@v2.3.0
-        with:
-          commit_message: Apply automatic changes
-          branch: ${{ github.head_ref }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   check-links:
     runs-on: ubuntu-latest
     steps:
