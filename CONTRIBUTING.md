@@ -9,14 +9,14 @@ Please ensure your pull request adheres to the following guidelines.
 * Search previous the current list and other suggestions (aka PRs)
   before making a new one, as yours may be a duplicate.
 * Add links:
-    * `[name](http://example.com/)
-      <img src="LINK TO ICON, IF POSSIBLE" width="16"/>
-      A short description ends with a period.`
-    * Keep descriptions concise.
-    * Maintain alphabetical ordering where applicable.
+  * `[name](http://example.com/)
+    <img src="LINK TO ICON, IF POSSIBLE" width="16"/>
+    A short description ends with a period.`
+  * Keep descriptions concise.
+  * Maintain alphabetical ordering where applicable.
 * Add a section if needed.
-    * Add the section description.
-    * Add the section title to the Index.
+  * Add the section description.
+  * Add the section title to the Index.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * Send a pull request with the reason why the addition is awesome.
