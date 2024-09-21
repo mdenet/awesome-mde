@@ -39,7 +39,7 @@ A curated list of awesome model-driven engineering (MDE) resources. Originally s
 
 ## Tools
 
-Below, we list awesome tools for doing MDE. The classification of contributions below is inspired by the MDE Body of Knowledge [[1](https://doi.org/10.1145/3270112.3270121),[2](https://doi.org/10.1007/s10270-019-00746-9)].
+Below, we list awesome tools for doing MDE. The classification of contributions below is inspired by the MDE Body of Knowledge \[[1](https://doi.org/10.1145/3270112.3270121),[2](https://doi.org/10.1007/s10270-019-00746-9)].
 
 - Modeling Languages
   - Language definition
