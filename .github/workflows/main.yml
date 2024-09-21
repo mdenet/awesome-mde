@@ -22,6 +22,7 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
           globs: '**/*.md'
+          fix: true
   check-links:
     runs-on: ubuntu-latest
     steps:
