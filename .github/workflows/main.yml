@@ -1,11 +1,38 @@
 name: lint
 on:
   pull_request:
+  workflow_dispatch:
 jobs:
-  Awesome_Lint:
+  awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          show-progress: ''
       - run: npx awesome-lint
+  markdown-lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          show-progress: ''
+      - name: Lint
+        uses: DavidAnson/markdownlint-cli2-action@v17
+        with:
+          globs: '**/*.md'
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+      - name: Checks
+        run: |
+          gem install awesome_bot
+          awesome_bot README.md --allow-ssl --allow-redirect -a 302,429,403 
