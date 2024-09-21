@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 --><!-- Don't report long lines -->
 # Awesome MDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome model-driven engineering (MDE) resources. Originally set up [@iivanoo](https://github.com/iivanoo)'s [Software and Sustainability Group](https://github.com/S2-group) and transferred to [MDENet](https://www.mde-network.org/) in 2023.
