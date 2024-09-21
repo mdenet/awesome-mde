@@ -78,6 +78,7 @@ Below, we list awesome tools for doing MDE. The classification of contributions 
         - [The Janus Transformation Language (JTL)](https://jtl.univaq.it/) - Another transformation language.
         - [MoTE - TGG-based Model Transformation Engine](https://www.hpi.uni-potsdam.de/giese/public/mdelab/mdelab-projects/mote-a-tgg-based-model-transformation-engine/) - A graph-transformation based model transformation tool.
         - [Henshin - Graph Transformation Language](https://projects.eclipse.org/projects/modeling.emft.henshin) - A graph-transformation based model transformation tool.
+        - [YAMTL - Yet Another Model Transformation Language](https://yamtl.github.io/) - An internal DSL for model transformation within JVM languages (Java, Groovy, Xtend, Kotlin), featuring key characteristics such as runtime performance, reuse of transformation logic, incremental execution, and independence from IDEs.
       - Model-to-text transformation languages.
         - [Epsilon Generation Language (EGL)](https://eclipse.org/doc/egl) - A language and tool for model-to-text transformation (aka code generation).
   - Model transformation applications
